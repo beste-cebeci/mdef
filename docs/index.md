@@ -1,5 +1,5 @@
 <div style="
-  background-color: #212121;  /* black */
+  background-color: #0000;  /* black */
   color: white;
   padding: 3rem 2rem;
   border-radius: 20px;
