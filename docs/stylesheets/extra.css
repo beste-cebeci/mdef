@@ -46,3 +46,14 @@
   display: none;
 }*/
 
+/* Homepage full background */
+.md-main .md-typeset {
+    min-height: 100vh;  /* Make sure it fills the viewport */
+}
+
+body.index {
+    background-image: url('/images/bg.png');  /* Path relative to docs/ folder */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

@@ -4,16 +4,8 @@
   padding: 3rem 2rem;
   border-radius: 20px;
 ">
-.md-main .md-typeset {
-    min-height: 100vh;  /* Make sure it fills the viewport */
-}
 
-body.index {
-    background-image: url('/images/bg.png');  /* Path relative to docs/ folder */
-    background-size: cover;       /* Cover the entire screen */
-    background-position: center;  /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat */
-}
+
 
 Welcome to my MDEF journey 👋🏻
 
