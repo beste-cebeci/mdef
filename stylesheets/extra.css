@@ -3,8 +3,8 @@
     --md-footer-bg-color: white;
     --md-footer-fg-color: rgb(250, 240, 230);
     --md-footer-bg-color--dark: white;
-    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
-    --md-footer-fg-color--light:  rgb(32, 32, 32);
+    --md-footer-fg-color--lighter:  rgb(0, 0,0);
+    --md-footer-fg-color--light:  rgb(0, 0, 0);
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color: rgb(12, 240, 190);
@@ -29,7 +29,7 @@
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(32, 32, 32);
+  color: rgb(0, 0, 0);
 }
 
 .md-typeset h2 {
