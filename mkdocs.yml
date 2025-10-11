@@ -11,7 +11,7 @@ theme:
   name: material
   palette:
     primary: black
-    accent: linen
+    accent: black
   font:
     text: Be Vietnam
     code: Cutive Mono
