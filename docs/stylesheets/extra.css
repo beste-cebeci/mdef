@@ -40,3 +40,9 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+/* Hide left sidebar navigation */
+.md-sidebar--primary {
+  display: none;
+}
+

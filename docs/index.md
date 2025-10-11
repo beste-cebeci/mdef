@@ -1,6 +1,6 @@
 <div style="
   background-color: #0000;  /* black */
-  color: white;
+  color: black;
   padding: 3rem 2rem;
   border-radius: 20px;
 ">
