@@ -5,7 +5,7 @@
   border-radius: 20px;
 ">
 
-## Welcome to my MDEF journey 👋🏻
+Welcome to my MDEF journey 👋🏻
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
