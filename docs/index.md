@@ -7,7 +7,7 @@
     <h2>Hey, This is Beste </h2>
     <p>
       Welcome to my journey through the <strong>Master in Design for Emergent Futures</strong> at
-      <a href="https://fablabbcn.org/" target="_blank">Fab Lab Barcelona</a>.
+     <a href="https://iaac.net" target="_blank">IAAC</a>, <a href="https://www.elisava.net" target="_blank">Elisava</a> and <a href="https://fablabbcn.org/" target="_blank">Fab Lab Barcelona</a>.
     </p>
     <p>
      Join me in this process, more is yet to come!
