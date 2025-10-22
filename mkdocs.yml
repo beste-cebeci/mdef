@@ -13,14 +13,10 @@ repo_url: ""
 nav:
   - Home: index.md
   - Beste: about/me.md
-  - Master project:
-      - Initial ideas: project/project.md
-  - MDEF:
-      - Overview: mdef/index.md
-      - Design Studio : mdef/designstudio1/index.md
-      - Fundamentals of Future Makers: mdef/futuremakers/index.md
-          
-         
+ 
+  - MDEF: mdef/index.md
+     
+  - Master project: project/project.md
 
 theme:
   name: material
