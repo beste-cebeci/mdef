@@ -12,51 +12,23 @@ repo_url: ""
 nav:
   - Home: index.md
   - Beste: about/me.md
-  - MDEF: mdef/index.md   
+  - MDEF:
       - Design Studio 1: mdef/designstudio1/index.md
       - Future Makers: mdef/futuremakers/index.md
   - Master project: project/project.md
 
 theme:
- theme:
   name: material
+  palette:
+    primary: white
+    accent: black
+  font:
+    text: 'Be Vietnam'
+    code: 'Cutive Mono'
   features:
-    - navigation.tabs       
+    - navigation.tabs
     - navigation.tabs.sticky
-
-extra:
-  social:
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/
-    - icon: fontawesome/brands/github
-      link: https://github.com/
-
-plugins:
-  - search
-  - git-revision-date-localized:
-      fallback_to_build_date: true
-
-markdown_extensions:
-  - admonition
-  - attr_list
-  - codehilite
-  - def_list
-  - footnotes
-  - md_in_html
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - toc:
-      permalink: true
+  favicon: images/favicon.svg
 
 extra_css:
   - stylesheets/extra.css
