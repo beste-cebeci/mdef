@@ -26,6 +26,7 @@ theme:
     text: 'Be Vietnam'
     code: 'Cutive Mono'
   features:
+    - navigation.instant.preview
     - navigation.tabs
     - navigation.tabs.sticky
     - nvaıgation.top
