@@ -28,6 +28,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - nvaıgation.top
   favicon: images/favicon.svg
 
 extra_css:
