@@ -1,51 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/about/me/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/about/me/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/mdef/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/mdef/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/mdef/02-Atlas%20of%20Weak%20Signals/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/mdef/designstudio1/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/mdef/designstudio/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/mdef/futuremakers/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/mdef/futuremakers/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/project/project/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/mdef/designstudio1/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/term1/02-Atlas%20of%20Weak%20Signals/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/mdef/futuremakers/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/term1/designstudio/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/project/project/</loc>
-         <lastmod>2025-10-22</lastmod>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2025-10-22</lastmod>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/designstudio/</loc>
-         <lastmod>2025-10-22</lastmod>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/futuremakers/</loc>
+         <loc>https://beste-cebeci.github.io/mdef/term1/futuremakers/</loc>
          <lastmod>2025-10-22</lastmod>
     </url>
 </urlset>
