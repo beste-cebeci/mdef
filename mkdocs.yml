@@ -34,11 +34,10 @@ theme:
     logo: material/memory
   favicon: images/favicon.svg
   features:
-    - navigation.tabs          # üst sekmeler
-    - navigation.tabs.sticky   # sekmeler sabit kalsın
-    - navigation.top           # üstte konumlandır
-    - navigation.tracking      # scroll takibi
-    - instant                  # sayfalar arası hızlı geçiş
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - instant
   logo: images/favicon.svg
 
 extra:
