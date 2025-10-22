@@ -11,7 +11,7 @@
 
 /* --- top navigation bar --- */
 .md-header {
-  background-color: #ffffff !important;
+  background-color: #EE0F0F !important;
   color: #000000 !important;
   box-shadow: none !important;
 }
@@ -58,3 +58,7 @@ a div:hover {
   opacity: 0.7;
   transition: opacity 0.3s ease;
 }
+
+[data-md-page="index.md"] h1:first-of-type {
+  display: none;
+}	
