@@ -1,5 +1,6 @@
 <div style="
-  background-color: #0000;  /* black */
+
+  background-color: #0000; 
   color: black;
   padding: 3rem 2rem;
   border-radius: 20px;
@@ -7,20 +8,17 @@
 
 
 
+
 Welcome to my MDEF journey 👋🏻
 
-
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
-
   <div style="flex: 1; min-width: 280px;">
     <h2>Hey, this is Beste </h2>
     <p>
       Welcome to my journey through the <strong>Master in Design for Emergent Futures</strong> at
      <a href="https://iaac.net" target="_blank">IAAC</a>, <a href="https://www.elisava.net" target="_blank">Elisava</a> and <a href="https://fablabbcn.org/" target="_blank">Fab Lab Barcelona</a>.
     </p>
-    <p>
-     Join me in this process, more is yet to come!
-    </p>
+    <p>Join me in this process, more is yet to come!</p>
   </div>
 
   <div style="flex: 1; min-width: 300px;">
@@ -29,6 +27,5 @@ Welcome to my MDEF journey 👋🏻
       Your browser does not support the video tag.
     </video>
   </div>
-
 </div>
 </div>
