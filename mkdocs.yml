@@ -20,7 +20,7 @@ nav:
 theme:
   name: material
   palette:
-    primary: light green
+    primary: EE0F0F
     accent: black
   font:
     text: 'Be Vietnam'
