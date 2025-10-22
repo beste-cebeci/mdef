@@ -16,9 +16,9 @@ nav:
   - Master project:
       - Initial ideas: project/project.md
   - MDEF:
-      - Design Studio : term1/designstudio.md
-          
-      - Fundamentals of Future Makers: term1/futuremakers.md
+      - Overview: mdef/index.md
+      - Design Studio : mdef/designstudio1/index.md
+      - Fundamentals of Future Makers: mdef/futuremakers/index.md
           
          
 
