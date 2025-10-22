@@ -21,7 +21,17 @@ nav:
   - Reflections Term 2 studio: term2/01-Bootcamp.md
 
 
-
+<header class="nav-section" style="translate: none; rotate: none; scale: none; transform: translate(-50%, 0%) translate3d(0px, 0px, 0px);"><div class="nav-wrapper-inner"><a data-nav-ns="about" href="/about" aria-current="false" class="nav-link">Brandon Lavoie</a><link rel="prefetch" href="/about"><a data-nav-ns="home" href="/" class="nav-link is-active w--current" aria-current="page">Motion</a><link rel="prefetch" href="/"><a data-nav-ns="stills" href="/stills" class="nav-link" aria-current="false">Stills</a><link rel="prefetch" href="/stills"><div aria-hidden="true" class="nav-selector" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"><div class="selector"></div></div></div></header>
+<div class="nav-wrapper-inner"><a data-nav-ns="about" href="/about" aria-current="false" class="nav-link">Brandon Lavoie</a><link rel="prefetch" href="/about"><a data-nav-ns="home" href="/" class="nav-link is-active w--current" aria-current="page">Motion</a><link rel="prefetch" href="/"><a data-nav-ns="stills" href="/stills" class="nav-link" aria-current="false">Stills</a><link rel="prefetch" href="/stills"><div aria-hidden="true" class="nav-selector" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"><div class="selector"></div></div></div>
+<a data-nav-ns="about" href="/about" aria-current="false" class="nav-link">Brandon Lavoie</a>
+<link rel="prefetch" href="/about">
+<a data-nav-ns="home" href="/" class="nav-link is-active w--current" aria-current="page">Motion</a>
+<link rel="prefetch" href="/">
+<a data-nav-ns="stills" href="/stills" class="nav-link" aria-current="false">Stills</a>
+<link rel="prefetch" href="/stills">
+<div aria-hidden="true" class="nav-selector" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"><div class="selector"></div></div>
+<div class="nav-wrapper-inner"><a data-nav-ns="about" href="/about" aria-current="false" class="nav-link">Brandon Lavoie</a><link rel="prefetch" href="/about"><a data-nav-ns="home" href="/" class="nav-link is-active w--current" aria-current="page">Motion</a><link rel="prefetch" href="/"><a data-nav-ns="stills" href="/stills" class="nav-link" aria-current="false">Stills</a><link rel="prefetch" href="/stills"><div aria-hidden="true" class="nav-selector" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"><div class="selector"></div></div></div>
+<header class="nav-section" style="translate: none; rotate: none; scale: none; transform: translate(-50%, 0%) translate3d(0px, 0px, 0px);"><div class="nav-wrapper-inner"><a data-nav-ns="about" href="/about" aria-current="false" class="nav-link">Brandon Lavoie</a><link rel="prefetch" href="/about"><a data-nav-ns="home" href="/" class="nav-link is-active w--current" aria-current="page">Motion</a><link rel="prefetch" href="/"><a data-nav-ns="stills" href="/stills" class="nav-link" aria-current="false">Stills</a><link rel="prefetch" href="/stills"><div aria-hidden="true" class="nav-selector" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"><div class="selector"></div></div></div></header>
 
 extra:
   social:
