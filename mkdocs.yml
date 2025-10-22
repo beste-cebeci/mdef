@@ -4,9 +4,10 @@ site_description: Master in Design for Emergent Futures
 site_author: Beste Cebeci
 copyright: Copyleft 2025 "Beste" - GNU Free Documentation License
 site_name: Beste Cebeci
-repo_name: false  
+repo_name: false
+site_url: https://fablabbcn.github.io/mdef-template/  
 repo_url: false
-site_url: https://fablabbcn.github.io/mdef-template/
+
 
  
 nav:
@@ -15,9 +16,9 @@ nav:
   - Master project:
       - Initial ideas: project/project.md
   - MDEF:
-      - Design Studio
+      - Design Studio : term1/designstudio.md
           
-      - Fundamentals of Future Makers:
+      - Fundamentals of Future Makers: term1/futuremakers.md
           
          
 
