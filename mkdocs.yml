@@ -12,28 +12,15 @@ repo_url: ""
 nav:
   - Home: index.md
   - Beste: about/me.md
- 
-  - MDEF: mdef/index.md
-     
+  - MDEF: mdef/index.md   
   - Master project: project/project.md
 
 theme:
+ theme:
   name: material
-  palette:
-    primary: white
-    accent: black
-  font:
-    text: Be Vietnam
-    code: Cutive Mono
-  icon:
-    logo: material/memory
-  favicon: images/favicon.svg
   features:
-    - navigation.tabs
+    - navigation.tabs       
     - navigation.tabs.sticky
-    - navigation.top
-    - instant
-  logo: images/favicon.svg
 
 extra:
   social:
