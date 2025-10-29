@@ -8,3 +8,6 @@
 ## Prototype I.
 
 <img src="../images/proto1_photos.jpg" />
+
+
+<source src="images/proto1_video.mp4" type="video/mp4">
