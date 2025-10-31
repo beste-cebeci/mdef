@@ -2,8 +2,8 @@
 
 # Living With Your Own Ideas
 
+![](images/proto_inspo.jpg)
 
-<img src="../images/proto_inspo.jpg"/>
 
 ## Prototype I.
 
