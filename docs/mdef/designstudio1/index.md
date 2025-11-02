@@ -15,11 +15,9 @@
 </video>
 
 
-### Prototype II.
 
 
 ![prototype2](images/proto2.gif)
 
 
 
-####Prototype III.
