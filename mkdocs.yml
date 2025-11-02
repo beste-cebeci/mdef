@@ -19,18 +19,8 @@ nav:
 
 theme:
   name: material
-  palette:
-    primary: white
-    accent: black
-  font:
-    text: 'Be Vietnam'
-    code: 'Cutive Mono'
   features:
-    - navigation.instant.preview
-    - navigation.tabs
     - navigation.tabs.sticky
-    - nvaıgation.top
-  favicon: images/favicon.svg
 
 extra_css:
   - stylesheets/extra.css
