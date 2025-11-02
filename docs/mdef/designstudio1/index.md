@@ -13,3 +13,11 @@
     <video width="100%" autoplay muted loop playsinline style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"><source src="images/proto1_video.mp4" type="video/mp4"> 
  Your browser does not support the video tag.
 </video>
+
+## Prototype II.
+
+![prototype2](images/proto2.gif)
+
+
+
+## Prototype III.
