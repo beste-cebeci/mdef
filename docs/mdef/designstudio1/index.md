@@ -14,10 +14,12 @@
  Your browser does not support the video tag.
 </video>
 
-## Prototype II.
+
+### Prototype II.
+
 
 ![prototype2](images/proto2.gif)
 
 
 
-## Prototype III.
+####Prototype III.
