@@ -2,7 +2,7 @@
 
 # Living With Your Own Ideas
 
-![](images/proto_inspo.jpg)
+![prototype1 inspiration](images/proto_inspo.jpg)
 
 
 ## Prototype I.
