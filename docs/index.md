@@ -1,10 +1,4 @@
-<div style="
 
-  background-color: #0000; 
-  color: black;
-  padding: 3rem 2rem;
-  border-radius: 20px;
-">
 
 
 
