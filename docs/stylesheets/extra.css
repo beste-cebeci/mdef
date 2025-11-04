@@ -9,6 +9,13 @@
   padding: 2rem;
 }
 
+/* --- top navigation bar --- */
+.md-header {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  box-shadow: none !important;
+}
+
 
 .md-tabs {
   justify-content: center;
