@@ -23,7 +23,7 @@ nav:
   - Home: index.md
   - Beste: about/me.md
   - MDEF:
-      - livingwithyourownideas: mdef/livingwithyourownideas/index.md
+      - LWYOI: mdef/livingwithyourownideas/index.md
       - Future Makers: mdef/futuremakers/index.md
   - Master project: project/project.md
 
