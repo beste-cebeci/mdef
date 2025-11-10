@@ -23,7 +23,6 @@ Inspired by the crown shyness phenomenon, I created this prosthesis to showcase 
 === "Become something"
 
 ![prototype2](../images/proto2.gif)
-
 ![image of my reflections](../images/reflectionsfinal1.png) 
 
 ![image of my reflections2](../images/reflectionsfinal2.png) 

@@ -23,7 +23,7 @@ nav:
   - Home: index.md
   - Beste: about/me.md
   - MDEF:
-      - Design Studio 1: mdef/designstudio1/index.md
+      - livingwithyourownideas: mdef/livingwithyourownideas/index.md
       - Future Makers: mdef/futuremakers/index.md
   - Master project: project/project.md
 
