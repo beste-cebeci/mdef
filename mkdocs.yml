@@ -8,9 +8,7 @@ site_url: https://beste-cebeci.github.io/mdef/
 repo_url: ""
 theme:
   name: material
-icon:
-  logo: chicken
-  favicon: chicken
+
 
   features:
     -navigation.instant
@@ -34,8 +32,3 @@ nav:
 extra_css:
   - stylesheets/extra.css
 
-markdown_extensions:
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: "twemoji"
-      emoji_generator: "!!python/name:pymdownx.emoji.to_svg"
