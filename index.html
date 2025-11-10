@@ -210,8 +210,8 @@
 
 
   <li class="md-nav__item">
-    <a href="about/me/" title="Beste" class="md-nav__link">
-      Beste
+    <a href="about/me/" title="About Me" class="md-nav__link">
+      About Me
     </a>
   </li>
 
@@ -313,6 +313,17 @@
       Your browser does not support the video tag.
     </video>
   </div>
+
+  <div class="grid cards" markdown>
+
+-   ![](images/lwoi.jpg)  
+    [View project](/docs//livingwithyourownideas/index.md)
+
+-   ![](images/futuremakers.jpg)  
+    [View project](/docs/futuremakers/index.md)
+
+</div>
+
 </div>
 </div>
                 
@@ -334,13 +345,13 @@
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
         
-          <a href="about/me/" title="Beste" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="about/me/" title="About Me" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Beste
+                About Me
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
@@ -377,7 +388,7 @@
       <script>
         app = initialize({
           base: ".",
-          features: "-navigation.instant -navigation.instant.progress -navigation.instant.preview -navigation.tracking -navigation.tabs -navigation.tabs.sticky",
+          features: "-navigation.tabs -navigation.tabs.sticky",
           search: Object.assign({
             worker: "assets/javascripts/worker/search.5eca75d3.min.js"
           }, typeof search !== "undefined" && search)

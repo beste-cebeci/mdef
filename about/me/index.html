@@ -21,7 +21,7 @@
     
     
       
-        <title>Beste - Beste</title>
+        <title>About Me - Beste</title>
       
     
     
@@ -79,8 +79,15 @@
     </label>
     <div class="md-header-nav__title" data-md-component="header-title">
       
-        <div class="md-header-nav__ellipsis md-ellipsis">
-          Beste
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Beste
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              About Me
+            
+          </span>
         </div>
       
     </div>
@@ -209,8 +216,8 @@
       
     
     
-    <a href="./" title="Beste" class="md-nav__link md-nav__link--active">
-      Beste
+    <a href="./" title="About Me" class="md-nav__link md-nav__link--active">
+      About Me
     </a>
     
   </li>
@@ -388,7 +395,7 @@
       <script>
         app = initialize({
           base: "../..",
-          features: "-navigation.instant -navigation.instant.progress -navigation.instant.preview -navigation.tracking -navigation.tabs -navigation.tabs.sticky",
+          features: "-navigation.tabs -navigation.tabs.sticky",
           search: Object.assign({
             worker: "../../assets/javascripts/worker/search.5eca75d3.min.js"
           }, typeof search !== "undefined" && search)
