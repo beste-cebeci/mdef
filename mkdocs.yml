@@ -11,17 +11,13 @@ theme:
 
 
   features:
-    -navigation.instant
-    -navigation.instant.progress
-    -navigation.instant.preview
-    -navigation.tracking
     -navigation.tabs
     -navigation.tabs.sticky
 
  
 nav:
   - Home: index.md
-  - Beste: about/me.md
+  - About Me: about/me.md
   - MDEF:
       - LWYOI: mdef/livingwithyourownideas/index.md
       - Future Makers: mdef/futuremakers/index.md
