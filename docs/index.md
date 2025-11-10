@@ -1,8 +1,3 @@
-
-
-
-
-
 Welcome to my MDEF journey 👋🏻
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
@@ -21,5 +16,23 @@ Welcome to my MDEF journey 👋🏻
       Your browser does not support the video tag.
     </video>
   </div>
+
+  <div class="grid cards" markdown>
+
+-   ![](images/lwoi.jpg)  
+    [View project](/docs//livingwithyourownideas/index.md)
+
+-   ![](images/futuremakers.jpg)  
+    [View project](/docs/futuremakers/index.md)
+
+</div>
+
 </div>
 </div>
+
+
+
+
+
+
+

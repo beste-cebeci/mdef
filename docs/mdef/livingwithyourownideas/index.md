@@ -7,7 +7,8 @@
 
 ## Prototype I.
 
-=== "Become the best version of yourself"
+**"Become the best version of yourself"**
+
 ![prototype 1](/docs/images/proto1_photos.jpg)
 
 Inspired by the crown shyness phenomenon, I created this prosthesis to showcase my personal space.
@@ -17,12 +18,13 @@ Inspired by the crown shyness phenomenon, I created this prosthesis to showcase 
 
 ## Prototype II.
 
-=== "Become something"
+**"Become something"**
 
+Empathize
 
 ![prototype2](/docs/images/proto2.gif)
 
-REFLECTIONS
+**REFLECTIONS**
 
 ![image of reflections 1](/docs/images/reflectionsfinal1.png) 
 
