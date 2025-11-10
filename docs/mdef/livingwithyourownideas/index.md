@@ -12,10 +12,7 @@
 
 Inspired by the crown shyness phenomenon, I created this prosthesis to showcase my personal space.
 
-  <div style="flex: 1; min-width: 300px;">
-    <video width="100%" autoplay muted loop playsinline style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"><source src="images/proto1_video.mp4" type="video/mp4"> 
- Your browser does not support the video tag.
-</video>
+  <source src="/docs/images/prosthesis1.mp4" type="prostehesis1/mp4">
 
 
 ## Prototype II.
