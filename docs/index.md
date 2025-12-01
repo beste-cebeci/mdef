@@ -17,20 +17,10 @@ Welcome to my MDEF journey 👋🏻
     </video>
   </div>
 
-  <div class="grid cards" markdown>
 
--   ![](images/lwoi.jpg)  
-    [View project](/docs//livingwithyourownideas/index.md)
+![cnc](/docs/images/futuremakers.jpg) 
 
--   ![](images/futuremakers.jpg)  
-    [View project](/docs/futuremakers/index.md)
-
-</div>
-
-</div>
-</div>
-
-
+![reading](/docs/images/lwoi.jpg) 
 
 
 
