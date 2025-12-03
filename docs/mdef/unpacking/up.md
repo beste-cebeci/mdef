@@ -1,6 +1,6 @@
 Unpacking a 2009 MacBook Reflection
 
-![machine](/docs/images/IMG_2046.png)
+![machine](/docs/images/2046.png)
 
 <p>For this project, our group explored several possible devices to disassemble speakers, a printer, and ultimately, an old 2009 MacBook. From the outside, the MacBook presents itself as a clean, minimal, almost effortless machine. But the moment we removed the case, we were met with an entirely different reality; countless screws, layers of dust, and a maze of unidentified cables.
 Documenting each step and component turned out to be far more time consuming than I expected. Many of the internal parts were difficult to identify, especially elements on the motherboard that lacked labels or specifications. Still, it was fascinating to recognize components from brands like Intel and Samsung inside what is marketed as a purely “Apple” product.
@@ -9,7 +9,7 @@ To be honest, forming the groups was my least favorite part of the class. I unde
 One major takeaway from this experience is something I’ll never forget: never throw away a broken computer without dealing with the hard drive. By accessing the hard drive of the MacBook, we were able to find out who the laptop belonged to and even browse some of their personal files. It was a huge reminder of how easily someone’s data can be exposed. I definitely wouldn’t want that to happen to me, and I’ll keep this lesson in mind moving forward.
 </p>
 
-![dissembling](/docs/images/IMG_3688.png) 
+![dissembling](/docs/images/3688.png) 
 
 Machine Paradox
 
