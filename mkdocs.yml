@@ -11,9 +11,9 @@ nav:
   - Home: index.md
   - About Me: docs/about/me.md
   - MDEF:
-      - LWYOI: docs/mdef/livingwithyourownideas/lwoi.md
-      - Future Makers: docs/mdef/futuremakers/fm.md
-      - Unpacking: docs/mdef/unpacking/up.md
+      - LWYOI: mdef/livingwithyourownideas/lwoi.md
+      - Future Makers: mdef/futuremakers/fm.md
+      - Unpacking: mdef/unpacking/up.md
 
 
 

@@ -18,10 +18,6 @@ Welcome to my MDEF journey 👋🏻
   </div>
 
 
-![cnc machine](../images/futuremakers.jpg) 
-
-![reading materials](../images/lwoi.jpg) 
-
 
 
 
