@@ -9,12 +9,12 @@ repo_url: ""
 
 nav:
   - Home: index.md
-  - About Me: about/me.md
+  - About Me: docs/about/me.md
   - MDEF:
-      - LWYOI: mdef/livingwithyourownideas/lwoi.md
-      - Future Makers: mdef/futuremakers/fm.md
-      - Unpacking: mdef/unpacking/up.md
-  - Master project: project/project.md
+      - LWYOI: docs/mdef/livingwithyourownideas/lwoi.md
+      - Future Makers: docs/mdef/futuremakers/fm.md
+      - Unpacking: docs/mdef/unpacking/up.md
+
 
 
 extra:

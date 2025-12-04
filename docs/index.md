@@ -18,9 +18,9 @@ Welcome to my MDEF journey 👋🏻
   </div>
 
 
-![cnc](/docs/images/futuremakers.jpg) 
+![cnc machine](../images/futuremakers.jpg) 
 
-![reading](/docs/images/lwoi.jpg) 
+![reading materials](../images/lwoi.jpg) 
 
 
 
