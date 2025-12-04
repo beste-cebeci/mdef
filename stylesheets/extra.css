@@ -1,13 +1,13 @@
 :root>* {
 
-    --md-footer-bg-color: white;
-    --md-footer-fg-color: rgb(32, 32, 32);
-    --md-footer-bg-color--dark: white;
-    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
+    --md-footer-bg-color: black;
+    --md-footer-fg-color: rgb(228, 228, 228);
+    --md-footer-bg-color--dark: black;
+    --md-footer-fg-color--lighter:  rgb(228, 228, 228);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Figtree', sans-serif;
     --mdc-typography-font-family: 'Figtree', sans-serif;
-    --md-typeset-a-color: rgb(0, 42, 33);
+    --md-typeset-a-color: rgb(0, 42, 24);
 
 }
 
