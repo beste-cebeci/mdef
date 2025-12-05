@@ -42,7 +42,7 @@ theme:
     text: Figtree
     code: Cutive Mono
   icon:
-    logo: images/chicken.svg
+    logo: material/library
   favicon: images/chicken.svg
   features:
     - instant
