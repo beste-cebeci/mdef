@@ -9,11 +9,13 @@ repo_url: ""
 
 nav:
   - Home: index.md
-  - About Me: docs/about/me.md
+  - About Me: about/me.md
   - MDEF:
       - LWYOI: mdef/livingwithyourownideas/lwoi.md
       - Future Makers: mdef/futuremakers/fm.md
       - Unpacking: mdef/unpacking/up.md
+      - Atlas of Weak Signals: mdef/atlasofweaksignals/aows.md
+    
 
 
 
