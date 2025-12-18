@@ -45,7 +45,7 @@ theme:
     code: Cutive Mono
   icon:
     logo: material/library
-  favicon: images/chicken.svg
+  favicon: images/icon.png
   features:
     - instant
     - navigation.expand
