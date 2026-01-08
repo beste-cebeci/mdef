@@ -45,8 +45,8 @@ theme:
     text: Figtree
     code: Cutive Mono
   icon:
-    logo: material/library
-  favicon: images/fish.svg
+    logo: material/fish
+  favicon: material/fish
   features:
     - instant
     - navigation.expand
