@@ -66,6 +66,7 @@ plugins:
   - git-revision-date-localized:
       fallback_to_build_date: true
   - mkdocs-pdf
+  - pdf-export
 
 markdown_extensions:
   - extra
@@ -107,6 +108,7 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - pymdownx.tabbed
+  - mkdocs-pdf-export-plugin
 
 extra_css:
   - stylesheets/extra.css
