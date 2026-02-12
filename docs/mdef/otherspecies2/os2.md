@@ -1,3 +1,3 @@
 
 
-![GMO project](../../images/GMO_beste_smller.pdf)
+![GMO project](../../images/GMO_beste_smllr.pdf)
