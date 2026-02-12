@@ -2,3 +2,6 @@ mkdocs
 mkdocs-material<5.5.12
 mkdocs-material-extensions
 mkdocs-git-revision-date-localized-plugin
+echo "mkdocs-pdf-export-plugin" >> requirements.txt
+# or regenerate from your venv
+pip freeze > requirements.txtmkdocs-pdf-export-plugin
