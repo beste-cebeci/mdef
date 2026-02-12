@@ -17,6 +17,7 @@ nav:
       - Atlas of Weak Signals: mdef/atlasofweaksignals/aows.md
       - Pictorial: mdef/pictorial/pictorial.md
       - Extended Intelligences: mdef/extendedintelligences/ei.md
+      - Other Species II: mdef/otherspeciesII/osII.md
     
 
 
@@ -64,6 +65,7 @@ plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
+  - mkdocs-pdf
 
 markdown_extensions:
   - extra
