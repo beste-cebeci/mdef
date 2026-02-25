@@ -1,7 +1,12 @@
 # Pictorial Draft
 
-![cover](../../images/draft.jpg){ width="380" }
-![spread1](../../images/draft2.jpg)
-![spread2](../../images/draft3.jpg)
-![spread3](../../images/draft4.gif)
-![spread5](../../images/draft6.gif)
+![2nddraft](../../images/2nddraft.jpg)
+![2nddraft](../../images/2nddraft2.jpg)
+![2nddraft](../../images/2nddraft3.jpg)
+![2nddraft](../../images/2nddraft4.jpg)
+![2nddraft](../../images/2nddraft5.jpg)
+
+## Peer Postcard
+
+![erandi](../../images/postcarderandi.jpg)
+
