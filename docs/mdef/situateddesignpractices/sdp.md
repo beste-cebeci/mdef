@@ -1,4 +1,4 @@
-![exploring](../../images/IMG_3.gif)
+![exploring](../../images/calnegre.gif)
 
 Situating on a bike at Cal Negre was my favourite class so far, and not just because I got to pet two dogs and touch clay at exactly the moment I needed grounding. It's because I figured I learn best this way. At a location, listening to people, practising their work alongside them. There's something that just doesn't translate to a classroom.
 
