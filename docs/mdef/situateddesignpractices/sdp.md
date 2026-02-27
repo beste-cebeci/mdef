@@ -11,7 +11,7 @@ This sits right at the core of my research. We experience the consequences of th
 
 Maria and Tom's festival installation moved me more than almost anything I've encountered this year, and we only saw it through a video. What got me was how backed up it was, in the story of the place, in material, in the body of the work itself. They found solutions on the spot, built around what the site gave them. The multisensory quality of it, the way it created an experience not a message, that's exactly what I want my own research to do.
 
-![imageindelta](../../images/IMG_4097.jpg)
+![workshop](../../images/IMG_4097.jpg)
 
 Throughout Ozzline's talk I kept thinking about the male gaze. Whether what she does still objectifies the female body even when she is the one drawing, the one in control of the image. It's an artwork without question, but my issue is with the audience: how male-centric it is, and how much of that audience is genuinely engaging aesthetically or sentimentally versus just looking.
 
