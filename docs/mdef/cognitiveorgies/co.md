@@ -1,3 +1,29 @@
+## “Seeding Memories” Project Development Process Reflection
+
+![artifact image](../../images/IMG_7406.jpg)
+
+We stayed with the same group and without really limiting ourselves tried to develop the previous project according to the brief. 2 intelligences needed to communicate. What is intelligence? What is communication? The common meanings were determined after a short discussion. On our first project “Echoes of earth” we kind of did this. We tried to translate the tree data into a real time sound and visual manipulation. But it wasn’t an active communication in terms of the 2nd intelligence.
+
+So for this project from the start we knew our common interests, and when the 2 intelligence was on the table it was easy for us to decide on ecological intelligence. We wanted to focus on the environment, either matter, stones or trees again. Information, archive, memory and translation were still on the table, we wanted to focus on them and as a result the tree sounded more relatable, as the wise. We also thought about Avatar and that relationship and communication. 
+
+![artifact image](../../images/Comp1.gif)
+
+We decided to communicate a memory and store it in a tree. But how? To make this double ways, we needed the tree to communicate as well, so the first step was to decide on a sensor. We went with EMG because trees vibrate in response to certain situations. But didn’t quite go as planned, it took us some time to figure out the cause of the reading because it was super sensitive and get the number we want. While Swarna was trying to figure that out with the help of Mikel, I tried to figure out the communication bit. Now we decided that since these memories will be intimate and personal we wanted to encrypt it. So the sensor data should be merged with the voice and transform it into something not understandable. Claude, wrote me some phyton codes, and I tried to play with it in order to adjust the audio into something we liked. But it wasn't giving us much room to play, the audio was really disturbing, scattering. Before making phyton and Arduino communicate I manually entered data to terminal, but later we tried and make real-time data work with the code as a backup option. Because now we decided to move to Touchdesigner to be able to manipulate the audio as we wanted. 
+
+![artifact prototype](../../images/try1.png)
+
+Building the touchdesigner skeleton was not that hard because we already did it in the previous project. But the since this was not only the sensor data becoming an audio, it needed to manipulate the voice (memory) so much that it is not audible, I needed to try out different effects. So the main serial data, would connect to the audio device in with an audio filter. This was changing the voice quite a bit but it was still understandable, so I added a beat chop that was connected to the incoming data and it gave an heart beat like effect, also some delay and a background frequency made the overall audio more smooth and natural. So now as you spoke the voice would be split and beaten by the data. 
+
+![artifact prototype](../../images/finalskeleton.png)
+
+For this session we were not able to figure out how to record or decrypt the audio. But we are planning on continuing the project, we looked into optical encoding, and some other examples of storing information in nature. 
+
+P.S. I also crushed the programme right before the presentations, because I was trying to add audio reactive visuals and I guess it was too much for my machine because the whole screen glitched and laptop got super hot. Real-time data from Arduino, microphone, and charge with 3d visuals might be too much for laptops. 
+
+![artifact prototype](../../images/IMG_2904.JPG)
+
+![ai label](../../images/ccl-seeding-memories.png)
+
 ## “Echoes of Earth” Project Development Process Reflection
 
 ![artifact video](../../images/artifactvideo.mp4)
