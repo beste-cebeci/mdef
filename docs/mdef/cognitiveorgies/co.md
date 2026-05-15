@@ -77,7 +77,4 @@ The third learning came during the presentation, where the artifact wasn't worki
 
 Even though in the end of cognitive orgies presentation it didn’t work we figured out everything until Sunday to use our artifact in out myth and it was super engaging with different materials that the participants found.
 
-<video controls playsinline>
-  <source src="../../images/fixed-2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![image work process](../../images/fixed-2.mp4)
