@@ -1,4 +1,4 @@
-## “Seeding Memories” Project Development Process Reflection
+## CO I “Seeding Memories” Reflection
 
 ![artifact image](../../images/IMG_7406.jpg)
 
@@ -24,7 +24,7 @@ P.S. I also crushed the programme right before the presentations, because I was 
 
 ![ai label](../../images/ccl-seeding-memories.png)
 
-## “Echoes of Earth” Project Development Process Reflection
+## CO II “Echoes of Earth” Reflection
 
 ![artifact video](../../images/artifactvideo.mp4)
 
@@ -54,3 +54,30 @@ https://www.sentinel-hub.com/
 https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2 
 https://harvardforest.fas.harvard.edu/data-archives/data-archive/ 
 https://app1.icgc.cat/web/en/sismologia_sismograma_v2.php?dia=active 
+
+## CO III “Sensescape” Reflection
+
+![image work process](../../images/biomaterial.gif)
+
+A multi-sensory experience. Our starting point was the experience itself, what we wanted the people interacting with it to feel. We agreed on creating a contrast of emotions, wanting people to start with one feeling and evolve into another through the interaction. One of the questions we kept coming back to was: "how can we make a sound touch you?"
+Generating audio through touch was something we had already explored in our Design Dialogues project, where touching pieces of clay on top of a brass sheet acting as a capacitive sensor, created a sonic output that changed frequencies based on real-time data. In this project we wanted to build on that by adding as many sensors as possible and introducing different materials. After a lot of loops and discussions about how to create that emotional shift, Heba came up with the idea of Twister the game. We wanted the materials to feel like a mystery, so the production raised a lot of questions. What should the platform look like, what could cover it, where would the sensors go, and how.
+
+![image work process](../../images/grounding.jpg)
+
+In terms of building the artifact and the software side, we ran into several challenges along the way.
+![artifact work process](../../images/feet.jpg)
+
+The first learning was that there is no need to map data in the code if you are using TouchDesigner for the output, because you can do it easily using Math CHOPs. You can see the readings directly and based on those values determine the range of each material's untouched state. The first code Claude gave me included mapping, and the values I was reading were in the millions, when readings are that high, the circuit needs a ground, which we didn't know at first. It was hard to figure out, but thanks to Mikel we understood why the sensor wasn't reading when touched alone, but would start reading when you touched the computer with one hand and the sensor with the other. When the values are lower, which should be the case from the start, the sensors work perfectly. So a grounding problem can directly affect the quality of the readings.
+
+The second learning was around communication between boards. We initially tried to implement the ESP-NOW protocol with two boards so that the computer wouldn't need to be physically connected to the artifact. Aurel then introduced us to a simpler way: through UDP over WiFi , where data is sent directly to TouchDesigner using a single board. To set it up you just add the WiFi credentials and the computer's IP address into the code, and in TouchDesigner you use a "UDP DAT" instead of a "Serial DAT." One thing to remember: if you move to a different location or switch to a hotspot, you need to update the IP address.
+
+The third learning came during the presentation, where the artifact wasn't working correctly. The data was transferring fine and mapping correctly, but the sound output was only working for two sensors, touching more than one at the same time would either go silent or one sound would overpower the others. After digging into it I found a couple of reasons for this. First, in the Math CHOP the properties "Combine Channels" and "Combine CHOPs" behave differently. Combine Channels works within a single input and merges the channels inside it, while Combine CHOPs takes multiple separate inputs and combines them together, which was what I actually needed. Second, and more importantly, was a volume issue. The Math CHOP multiplies every input introduced to it, so when more than one input is active they can together exceed the 0–1 range, causing the output to go silent. The solution was to add an individual Math CHOP before each sensor's signal reaches the final combining CHOP, and in each of those set the Multiply parameter from 1 to 0.25. That way, even when all four sensors are touched at once, the final Math CHOP receives a combined value of exactly 1 and outputs clean audio.
+
+![image work process](../../images/td_failed.png)
+
+Even though in the end of cognitive orgies presentation it didn’t work we figured out everything until Sunday to use our artifact in out myth and it was super engaging with different materials that the participants found.
+
+<video controls playsinline>
+  <source src="../../images/fixed-2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

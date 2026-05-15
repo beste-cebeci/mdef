@@ -66,6 +66,8 @@ plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
+  - mkdocs-video:
+      video_muted: false
 
 
 markdown_extensions:
