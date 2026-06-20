@@ -28,4 +28,4 @@ Ultimately, the passive exhibition format remained a challenge. Even though peop
 Hacksterio: https://www.hackster.io/bestecebeci/memoirs-of-disappearing-earth-ac3249
 Project Website: https://beste-cebeci.github.io/mode/work.html
 
-[image work process](../../images/CCL_Memoirs_of_Disappearing_Earth_Beste.png)
+![image work process](../../images/CCL_Memoirs_of_Disappearing_Earth_Beste.png)
