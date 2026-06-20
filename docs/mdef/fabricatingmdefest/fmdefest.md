@@ -6,7 +6,7 @@ How can we make this interaction portable? This was our starting point in this f
 Our first idea was to see if we could run our previous TouchDesigner system through a Raspberry Pi, but that option didn't look promising. This made us question whether we should change the software entirely. Initially, we always had the idea to implement visuals as well, but at this stage, sound was the main focus we wanted to ace. Visuals didn't seem to fit anymore when we were trying to encourage people to be outside, observe, and physically touch the materials. This pivot brought us to VCV Rack, a modular synthesis program. None of us had prior experience with audio synthesis, so putting aside the portability aspect for a moment, I started learning how to generate our audio.
 We had already gone back to our starting point a couple of times by then, so things had to move quickly. I tried to achieve the sound and logic I envisioned using Claude and some online tutorials. However, thanks to a session with Tim, I finally started understanding what I was actually doing. That was a major moment for me where I realized that even if you prompt an AI to explain things in detail or ask questions about what it is instructing you to do, it will never be as effective as a human being sitting next to you and teaching you.
 
-[image work process](../../images/vcv.png)
+![image work process](../../images/vcv.png)
 
 Another setback came during the design reviews. New people brought new ideas, which meant constant changes to the project. The feedback was very helpful, and reviewers commented on valid areas for improvement, but receiving this at a stage when we had very limited time was a bit demotivating. We shifted the system from one sensor to four, back to one, and then finally to three, changing our software and our narrative a few times. But again, thanks to their critiques, we were able to clearly see the weak points and the strong parts we needed to focus on.
 We still needed to design the physical part of the artifact—deciding where the materials would sit, how people would touch them, and what the interaction protocol would be. We ideated around this for a while. First, we wanted a circular sensor area embedded with LEDs to create a ritualistic aesthetic. Then, we decided to include water as one of the elements, which made things even more complicated due to waterproofing requirements. We looked into creating a sculptural bowl from biomaterial recipes, but we simply did not have enough time.
@@ -23,9 +23,9 @@ Working in a team was incredibly helpful throughout this process. It allowed us 
 
 Ultimately, the passive exhibition format remained a challenge. Even though people could understand how to interact with our artifact on their own, we didn't want to leave our personal laptops unattended at the site. Therefore, we structured the final interaction to be guided through our website interface. And for the festival, we introduced a collective activation where audiences generated their unique compositions through interacting with this disappearing materiality.
 
-[activation video](https://vimeo.com/1203038582?share=copy&fl=sv&fe=ci)
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1203038582?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Memoirs of Disappearing Earth - Activation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Hacksterio: https://www.hackster.io/bestecebeci/memoirs-of-disappearing-earth-ac3249
 Project Website: https://beste-cebeci.github.io/mode/work.html
 
+[image work process](../../images/CCL_Memoirs_of_Disappearing_Earth_Beste.png)
